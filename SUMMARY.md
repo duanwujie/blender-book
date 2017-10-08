@@ -247,7 +247,6 @@
 ---
 
 * [Asking for Help](Asking_for_Help)
-
 * [Modeling Realistically](Modeling_Realistically)
 * [Modeling tips](Modeling_tips)
 
@@ -302,6 +301,4 @@
 * [Animation Notes and FAQ](Animation_Notes_and_FAQ)
 * [Customization](Customization)
 * [Mist - Make Objects Opaque](Mist_-_Make_Objects_Opaque)
-
-
 

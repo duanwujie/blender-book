@@ -4,7 +4,7 @@
 
 * [Introduction](README.md)
 * [Knowing before Making](_Knowing_Before_Making)
-* [What Blender Can Do](What_Blender_Can_Do)
+* [Blender可以做什么](What_Blender_Can_Do)
 * [Section 1A: 3D概念](section-1a-3d-concepts.md)
   * [三维几何](3D_Geometry)
   * [Coordinate Transformations](Coordinate_Transformations)

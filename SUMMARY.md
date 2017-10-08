@@ -2,7 +2,6 @@
 
 ## 背景知识
 
-* [Introduction](README.md)
 * [Knowing before Making](_Knowing_Before_Making.md)
 * [Blender可以做什么](What_Blender_Can_Do.md)
 * [Section 1A: 3D概念](section-1a-3d-concepts.md)
@@ -11,7 +10,7 @@
     * [Orthographic Views](Orthographic_Views.md)
     * [Perspective Views](Perspective_Views.md)
   * [Coordinate Spaces in Blender](Coordinate_Spaces_in_Blender.md)
-* Section 1B: 用户界面 \(UI\.md)
+* Section 1B: 用户界面 \(UI.md\)
   * [Overview](User_Interface_Overview.md)
   * [Keystroke, Button, and Menu Notation](Keystroke,_Button,_and_Menu_Notation.md)
   * [Non-standard Input Devices](Non-standard_equipment.md)
@@ -301,4 +300,6 @@
 * [Animation Notes and FAQ](Animation_Notes_and_FAQ.md)
 * [Customization](Customization.md)
 * [Mist - Make Objects Opaque](Mist_-_Make_Objects_Opaque.md)
+
+
 

@@ -2,168 +2,92 @@
 
 ## Unit 1: Background
 
+* [Introduction](README.md)
 * [Knowing before Making](_Knowing_Before_Making)
-
 * [What Blender Can Do](What_Blender_Can_Do)
-
 * Section 1A: 3D Concepts
-
   * [3D Geometry](3D_Geometry)
-
   * [Coordinate Transformations](Coordinate_Transformations)
-
     * [Orthographic Views](Orthographic_Views)
-
     * [Perspective Views](Perspective_Views)
-
   * [Coordinate Spaces in Blender](Coordinate_Spaces_in_Blender)
-
 * Section 1B: User Interface \(UI\)
-
   * [Overview](User_Interface_Overview)
-
   * [Keystroke, Button, and Menu Notation](Keystroke,_Button,_and_Menu_Notation)
-
   * [Non-standard Input Devices](Non-standard_equipment)
-
   * [Operating System-specific Issues](Operating_System_specific_notes)
-
   * [Blender User Interface](Blender_Interface)
-
   * [Blender Windowing System](Blender_Windowing_System)
-
   * [User Preferences Windows](User_Preferences_Windows)
-
   * [Properties Window](Properties_Window)
-
   * [3D View Windows](3D_View_Windows)
-
   * [Object Mode](Object_Mode)
 
 ## Unit 2: Basic Modeling and Shading
 
-* Section 2A: Your First Mesh Models
-
+* [Section 2A: Your First Mesh Models](section-2a-your-first-mesh-models.md)
   * [Meshes and Edit Mode](Mesh_Edit_Mode)
-
   * [Normals and Shading](Normals_and_Shading)
-
   * [More Mesh Editing Techniques](More_Mesh_Editing_Techniques)
-
   * [Quickie Lighting](Quickie_Lighting)
-
   * [Quickie Model](Quickie_Model)
-
   * [Quickie Render](Quickie_Render)
-
   * [Enter the World](World_Settings)
-
   * [Understanding the Camera](Understanding_the_Camera)
-
   * [Improving Your House](Improving_Your_House)
-
 * Section 2B: Smooth Meshes \(Simple Person with a Hat\)
-
   * [Extruding a Simple Person](Modeling_a_Simple_Person)
-
   * [Smoothing Your Simple Person](Detailing_Your_Simple_Person_1)
-
   * [Improving Your Simple Person](Detailing_Your_Simple_Person_2)
-
   * [Spinning a Simple Hat](Creating_a_Simple_Hat)
-
   * [Putting the Hat on the Person](Putting_Hat_on_Person)
-
 * Section 2C: Materials and Textures
-
   * [Overview](Materials_and_Textures)
-
   * [Quickie Material](Quickie_Material)
-
   * [Multiple Materials per Object](Multiple_Materials_Per_Object)
-
   * [Metal Versus Plastic](Metal_Versus_Plastic)
-
   * [Texture Settings](Texture_Settings)
-
   * [Image Textures](Image_Textures)
-
   * [Procedural Textures](Procedural_Textures)
-
   * [Quickie Texture](Quickie_Texture)
-
   * [Halo Materials](Halo_Materials)
-
 * Beyond Basics
-
   * [Blender Memory Management](Blender_Memory_Management)
-
   * [Using Bones](Bones)
-
   * [Mountains out of Molehills](Mountains_Out_Of_Molehills)
-
   * [Modeling a Volcano](Modeling_a_volcano)
-
   * [Penguins from Spheres](Penguins_from_spheres)
-
   * [Dicing With Depth \(Dice Modeling\)](Dicing_With_Depth)
-
   * [Model a Goblet](Model_a_Goblet)
-
     * [Model a Silver Goblet](Model_a_Silver_Goblet)
-
     * [Model a Silver Goblet Another Way](Model_a_Silver_Goblet_cylinder)
-
     * [Spin a goblet](Spin_a_goblet)
-
     * [Light a Silver Goblet \(Early look at lighting\)](Light_a_Silver_Goblet)
-
   * [Simple Vehicle](Simple_Vehicle)
-
     * [Simple Vehicle: Wheel tutorial 1](Simple_Vehicle:_Wheel_tutorial_1)
-
     * [Simple Vehicle: Wheel tutorial 2](Simple_Vehicle:_Wheel_tutorial_2)
-
     * [Simple Vehicle: Seat](Simple_Vehicle:_Seat)
-
     * [Simple Vehicle: Rocket Launcher](Simple_Vehicle:_Rocket_Launcher)
-
     * [Simple Vehicle: Body](Simple_Vehicle:_Body)
-
     * [Simple Vehicle: Some Assembly Required](Simple_Vehicle:_Some_Assembly_Required)
-
   * [Modeling a 3D Parachute in Blender](Modeling_a_3D_Parachute_in_Blender)
-
   * [Model a Low Poly Head](Model_a_Low_Poly_Head)
-
   * [Building a House](Building_a_House)
-
   * [Pipe joints](Pipe_joints)
-
   * [Lighting Suzanne: Introductory one lamp lighting](Lighting_Suzanne:_Introductory_one_lamp_lighting)
-
 * Curve and Path Modeling
-
   * [Overview](Curve_and_Path_Modeling)
   * [Intro to Bézier Curves](Intro_to_Bezier_Curves)
-
   * [Bevelling a Curve](Bevelling_a_Curve)
-
   * [NURBS Patches](NURBS_Patches)
-
   * [Deforming Meshes using the Curve Modifier](Deforming_Meshes_using_the_Curve_Modifier)
-
 * [The Empty Object](The_Empty_Object)
-
 * Using Reference Photos
-
   * [Background Images](Background_Images)
   * [Aligning Vertices with a Guide Image](Aligning_Vertices_with_a_Guide_Image)
   * [Modeling a Wolf from Guide Images](Modeling_a_Wolf_from_Guide_Images)
   * [Using Bézier Curve to Model a 3D logo from a 2D logo](2D_Image_%28logo%29_to_a_3D_Model)
-
 * Further Materials and Textures
-
   * [Subsurface Scattering](Subsurface_scattering)
   * [Ray Tracing](Ray_Tracing)
   * [Using Textures](Using_Textures)
@@ -179,24 +103,17 @@
 ## Unit 3: Broadening Horizons
 
 * [The UV/Image Editor](Image_Editor)
-
 * UV Maps - Pasting photos to 3D surfaces
-
   * [UV Map Basics](UV_Map_Basics)
   * [Realistic Eyes In Blender](Realistic_Eyes_In_Blender)
-
 * Lighting
-
   * [Beginning Lighting](Beginning_Lighting)
   * [Understanding Real Lights](Understanding_Real_Lights)
   * [Understanding Blender Lights](Understanding_Blender_Lights)
   * [Basic Lighting Rigs](Basic_Lighting_Rigs)
   * [Faked Global Illumination with Blender internal](Faked_Gi_with_Blender_internal)
-
 * [Practicing Good Parenting](Parenting)
-
 * Basic Animation
-
   * [Overview](Basic_Animation)
   * [Introduction to Keyframing](Basic_Animation/Keyframing_Introduction)
   * [The Ways of the Animator](The_Ways_of_the_Animator)
@@ -208,26 +125,19 @@
   * [Creating Basic Water Animation](Creating_Basic_Water_animation)
   * [Flying Through a Canyon](Flying_Through_A_Canyon)
   * [Using the Sequencer to Compile Frames into an Animation](Using_the_sequencer_to_compile_frames_into_an_animation)
-
 * [Further Rendering Options](Further_Rendering_Options)
-
 * Particle Systems
-
   * [Overview](Particle_Systems)
   * [Fire](Making_Fire)
   * [Fur](Furry)
   * [Fireworks](Fireworks)
   * [Particles forming Shapes](Particles_forming_Shapes)
   * [Billboard Animation](Billboard_Animation)
-
 * Soft Bodies
-
   * [Soft Body Animation](Soft_Body_Animation)
   * [Simple Cloth Animation](Simple_Cloth_Animation)
   * [Soft Body with Wind](Soft_Body_with_wind)
-
 * Blender Game Engine
-
   * [Blender Game Engine Basics- Rolling Ball](Your_First_Test)
   * [Platformer: Controls and Movement](Platformer:_Creation_and_Controls)
   * [Maze: Force and Multiple Levels](An_aMAZEing_game_engine_tutorial)
@@ -240,18 +150,14 @@
 
 ## Unit 4: Taking Off with Advanced Tutorials
 
-
 * Python Scripting
-
   * [Introduction](Advanced_Tutorials/Python_Scripting/Introduction)
   * [Anatomy Of An Addon](Advanced_Tutorials/Python_Scripting/Addon_Anatomy)
   * [A User Interface For Your Addon](Advanced_Tutorials/Python_Scripting/Addon_User_Interface)
   * [Adding A Custom Property](Advanced_Tutorials/Python_Scripting/Addon_Custom_Property)
   * [A Separately Installable Addon](Advanced_Tutorials/Python_Scripting/Separately_Installable_Addon)
   * [Object, Action, Settings](Advanced_Tutorials/Python_Scripting/Object,_Action,_Settings)
-
 * Advanced Modeling
-
   * [Overview](Advanced_Tutorials/Advanced_Modeling)
   * [High Dynamic Range imaging \(HDRi\)](HDRi)
     * [Creating a Light Probe](Creating_a_Light_Probe)
@@ -260,50 +166,35 @@
     * [Landscape Modeling I: Basic Terrain](Landscape_Modeling_I:_Basic_Terrain)
     * [Landscape Modeling II: Texture Stenciling](Landscape_Modeling_II:_Texture_Stenciling)
     * [Landscape Modeling III: Exporting as a Heightmap](Landscape_Modeling_III:_Exporting_as_a_Heightmap)
-
 * Advanced Materials and Textures
-
   * [Bump Mapping](Bump_Mapping)
   * [Normal Mapping](Normal_Mapping)
     * [Texture Normals](Texture_Normal_Mapping)
     * [Color Map Normals](Color_Map_Normal_Mapping)
-
 * Nodes
-
   * [Introduction](Nodes)
   * [Texture Nodes](Texture_Nodes)
   * [Material Nodes](Material_Nodes)
   * [Compositing](Compositing)
   * [Further Compositing: A Portal Effect](Compositing/Portal_Effect)
-
 * [Advanced Rendering](Advanced_Tutorials/Advanced_Rendering)
-
   * [Introduction to Cycles](Advanced_Tutorials/Introduction_to_Cycles)
   * [A Glass Material in Cycles](Advanced_Tutorials/Cycles_Glass)
   * [Dealing with Fireflies in Cycles](Advanced_Tutorials/Cycles_Fireflies)
   * [Fireflies in Cycles, Continued](Advanced_Tutorials/Cycles_Fireflies_2)
   * [Procedural Eyeball in Cycles](Advanced_Tutorials/Procedural_Eyeball_in_Cycles)
   * [Introduction to Freestyle](Advanced_Tutorials/Introduction_to_Freestyle)
-
 * Advanced Animation
-
   * [Overview](Advanced_Tutorials/Advanced_Animation)
   * [Introduction](Advanced_Tutorials/Advanced_Animation/Introduction)
   * [Guided Tour:](Advanced_Tutorials/Advanced_Animation/Guided_tour/index)
     * [Armature Object](Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/index)
-
 * [Armature Object in Object Mode](Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/object)
-
 * [Armature Object in Edit Mode](Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/edit)
-
 * [Armature Object in Pose mode](Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/pose)
-
   * [Mesh Object](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/index)
-
-* [Connection between Armature and Mesh](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)  
-
-* [Envelope](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)  
-
+* [Connection between Armature and Mesh](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)
+* [Envelope](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)
 * [Vertex Groups & Weight Paint](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/vg)
 * [Shape Keys](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Shape)
   * [Lip-Sync with Shape Keys](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Shape/Sync)
@@ -320,31 +211,24 @@
   * [Graph Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/ipo/index)
   * [Dope Sheet](Advanced_Tutorials/Advanced_Animation/Guided_tour/ipo/type)
   * [NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/index)
-* [Introduction To NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)  
-
+* [Introduction To NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)
   * [Working Example: Bob](Advanced_Tutorials/Advanced_Animation/example/bob/index)
   * [Building the Rig](Advanced_Tutorials/Advanced_Animation/example/bob/Build_rig)
   * [Deform the Mesh](Advanced_Tutorials/Advanced_Animation/example/bob/connect2mesh)
   * [Create a Walk Cycle](Advanced_Tutorials/Advanced_Animation/example/bob/walk)
   * [Working example: Piston, Rod and Crank](Advanced_Tutorials/Advanced_Animation/example/_Piston,_Rod_and_Crank)
   * [Working example: Cutting Through Steel](Advanced_Tutorials/Advanced_Animation/example/_Cutting_Through_Steel)
-
 * Advanced Game Engine
-
   * [Overview](Advanced_Tutorials/Advanced_Game_Engine)
   * [Advanced Game Engine Techniques \(GUI\)](Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29)
     * [Creating Pop-Up Menus](Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Pop-Up_Menus)
     * [Creating Dropping Menus](Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Moving_Menus)
     * [Creating Object Outlines](Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Object_Outlines)
   * [Advanced Game Engine Techniques \(Python\)](Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28Python%29)
-
 * [Hacking Blender](Hacking_Blender)
-
   * [Introduction to Game Engine Source](Intro-GE-Source)
 
-### Appendices
-
-#### Reference Material
+## Appendices
 
 * [Glossary](Glossary)
 * [Frequently Asked Questions](FAQ)
@@ -357,27 +241,22 @@
 * [Sources of free 3D models](Sources_of_free_3D_models)
   * Sources of free 3D models for additional study
 * [All Blueprints Links](Blueprint_Links_List)
-  – blueprints from all over the Web
 * [Materials, Textures, Photos](Materials,_Textures,_Photos)
   * Sources of free materials, textures and photos
 
-#### Advice
-
-General advice:
+---
 
 * [Asking for Help](Asking_for_Help)
-* \[Tips for a Successful Project\]\(\[[https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\]\(https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\)\](Know_What_You're_Doing]%28Know_What_You're_Doing%29\)\)
+
 * [Modeling Realistically](Modeling_Realistically)
 * [Modeling tips](Modeling_tips)
 
-Performance tips \(for making Blender run faster\):
+---
 
 * [Cheat the 3D](Cheat_the_3D)
 * [Performance vs. Quality](Performance_vs._Quality)
 
-#### Miscellaneous Tutorials
-
-This is our attic, mostly tutorials that could be useful to some extent if they would be revamped completely, but are of little use at the moment. If you can contribute to some of them, go ahead and rewrite them to your liking!
+---
 
 * [Modeling a Gingerbread Man](Modeling_a_Gingerbread_Man)
 * [Modeling a simple space-ship](Modeling_a_simple_space-ship)
@@ -399,7 +278,7 @@ This is our attic, mostly tutorials that could be useful to some extent if they 
 * [Creating animated GIFs using Blender and Gimp](Creating_animated_GIFs_using_Blender_and_Gimp)
 * [3D Tiling Backgrounds For The Web](3D_Tiling_Backgrounds_For_The_Web)
 * [Cool Things That Aren't That Obvious in Blender](Cool_Things)
-* [Troubleshooting](Troubleshooting) Common Technical Issues and What to do About Them
+* [Troubleshooting](Troubleshooting)
 * [Creating Blender Libraries](Creating_Blender_Libraries)
 * [Add some depth with stereo](Add_some_depth_with_stereo)
 * [Ways to create a "fluffy" effect \(materials and lights\)](Fluffy_Material)

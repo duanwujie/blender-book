@@ -1,6 +1,6 @@
 # Summary
 
-## Unit 1: Background
+## 背景知识
 
 * [Introduction](README.md)
 * [Knowing before Making](_Knowing_Before_Making)

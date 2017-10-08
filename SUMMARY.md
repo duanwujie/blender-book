@@ -240,7 +240,6 @@
 
 ## Unit 4: Taking Off with Advanced Tutorials
 
-
 * Python Scripting
 
   * [Introduction](Advanced_Tutorials/Python_Scripting/Introduction)
@@ -300,11 +299,12 @@
 
   * [Mesh Object](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/index)
 
-* [Connection between Armature and Mesh](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)  
+* [Connection between Armature and Mesh](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)
 
-* [Envelope](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)  
+* [Envelope](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)
 
 * [Vertex Groups & Weight Paint](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/vg)
+
 * [Shape Keys](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Shape)
   * [Lip-Sync with Shape Keys](Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Shape/Sync)
   * [Constraints](Advanced_Tutorials/Advanced_Animation/Guided_tour/Const/index)
@@ -320,7 +320,7 @@
   * [Graph Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/ipo/index)
   * [Dope Sheet](Advanced_Tutorials/Advanced_Animation/Guided_tour/ipo/type)
   * [NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/index)
-* [Introduction To NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)  
+* [Introduction To NLA Editor](Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)
 
   * [Working Example: Bob](Advanced_Tutorials/Advanced_Animation/example/bob/index)
   * [Building the Rig](Advanced_Tutorials/Advanced_Animation/example/bob/Build_rig)
@@ -363,21 +363,17 @@
 
 #### Advice
 
-General advice:
-
 * [Asking for Help](Asking_for_Help)
-* \[Tips for a Successful Project\]\(\[[https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\]\(https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\)\](Know_What_You're_Doing]%28Know_What_You're_Doing%29\)\)
+
 * [Modeling Realistically](Modeling_Realistically)
 * [Modeling tips](Modeling_tips)
-
-Performance tips \(for making Blender run faster\):
 
 * [Cheat the 3D](Cheat_the_3D)
 * [Performance vs. Quality](Performance_vs._Quality)
 
 #### Miscellaneous Tutorials
 
-This is our attic, mostly tutorials that could be useful to some extent if they would be revamped completely, but are of little use at the moment. If you can contribute to some of them, go ahead and rewrite them to your liking!
+
 
 * [Modeling a Gingerbread Man](Modeling_a_Gingerbread_Man)
 * [Modeling a simple space-ship](Modeling_a_simple_space-ship)

@@ -310,6 +310,7 @@
 * [Armature Object in Object Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/object)
 
 * [Armature Object in Edit Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/edit)
+
 * [Armature Object in Pose mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/pose)
 
   * [Mesh Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/index)
@@ -317,8 +318,9 @@
 * [Connection between Armature and Mesh](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)  
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
 
-* [Envelope](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)
+* [Envelope](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)  
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
+
 * [Vertex Groups & Weight Paint](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/vg)
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
 * [Shape Keys](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Shape)
@@ -374,7 +376,7 @@
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
     * [Creating Dropping Menus](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Moving_Menus)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
-    * \[The "5-Layer" Button\]\([https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Advanced\_Tutorials/Advanced\_Game\_Engine/Game\_Creating\_Techniques\(GUI\)/The\_"5-Layer"\_Button](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/The_"5-Layer"_Button)\)
+    * \[The "5-Layer" Button\]\(\[[https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Advanced\_Tutorials/Advanced\_Game\_Engine/Game\_Creating\_Techniques\(GUI\)/The\_"5-Layer"\_Button\]\(https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Advanced\_Tutorials/Advanced\_Game\_Engine/Game\_Creating\_Techniques\(GUI\)/The\_"5-Layer"\_Button\)\](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/The_"5-Layer"_Button]%28https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/The_"5-Layer"_Button%29\)\)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
     * [Creating Object Outlines](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Object_Outlines)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
@@ -409,7 +411,7 @@
 General advice:
 
 * [Asking for Help](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Asking_for_Help)
-* \[Tips for a Successful Project\]\([https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Know_What_You're_Doing)\)
+* \[Tips for a Successful Project\]\(\[[https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\]\(https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing\)\](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Know_What_You're_Doing]%28https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Know_What_You're_Doing%29\)\)
 * [Modeling Realistically](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_Realistically)
 * [Modeling tips](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_tips)
 

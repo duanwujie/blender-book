@@ -5,7 +5,7 @@
 * [Introduction](README.md)
 * [Knowing before Making](_Knowing_Before_Making)
 * [What Blender Can Do](What_Blender_Can_Do)
-* Section 1A: 3D Concepts
+* [Section 1A: 3D Concepts](section-1a-3d-concepts.md)
   * [3D Geometry](3D_Geometry)
   * [Coordinate Transformations](Coordinate_Transformations)
     * [Orthographic Views](Orthographic_Views)

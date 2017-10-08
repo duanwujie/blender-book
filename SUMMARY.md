@@ -2,87 +2,146 @@
 
 ## Unit 1: Background\[[edit](https://en.wikibooks.org/w/index.php?title=Blender_3D:_Noob_to_Pro&action=edit&section=8)\]
 
-* ### [Knowing before Making](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Unit_1:_Knowing_Before_Making)
-* ### [What Blender Can Do](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/What_Blender_Can_Do)
-* ### Section 1A: 3D Concepts
+* [Knowing before Making](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Unit_1:_Knowing_Before_Making)
 
-  * #### [3D Geometry](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/3D_Geometry)
-  * #### [Coordinate Transformations](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Coordinate_Transformations)
+* [What Blender Can Do](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/What_Blender_Can_Do)
 
-    * ##### [Orthographic Views](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Orthographic_Views)
-    * ##### [Perspective Views](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Perspective_Views)
-  * #### [Coordinate Spaces in Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Coordinate_Spaces_in_Blender)
-* ### Section 1B: User Interface \(UI\)
+* Section 1A: 3D Concepts
 
-  * #### [Overview](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/User_Interface_Overview)
-  * #### [Keystroke, Button, and Menu Notation](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Keystroke,_Button,_and_Menu_Notation)
-  * #### [Non-standard Input Devices](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Non-standard_equipment)
-  * #### [Operating System-specific Issues](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Operating_System_specific_notes)
-  * #### [Blender User Interface](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Interface)
-  * #### [Blender Windowing System](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Windowing_System)
-  * #### [User Preferences Windows](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/User_Preferences_Windows)
-  * #### [Properties Window](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Properties_Window)
-  * #### [3D View Windows](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/3D_View_Windows)
-  * #### [Object Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Object_Mode)
+  * [3D Geometry](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/3D_Geometry)
+
+  * [Coordinate Transformations](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Coordinate_Transformations)
+
+    * [Orthographic Views](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Orthographic_Views)
+
+    * [Perspective Views](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Perspective_Views)
+
+  * [Coordinate Spaces in Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Coordinate_Spaces_in_Blender)
+
+* Section 1B: User Interface \(UI\)
+
+  * [Overview](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/User_Interface_Overview)
+
+  * [Keystroke, Button, and Menu Notation](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Keystroke,_Button,_and_Menu_Notation)
+
+  * [Non-standard Input Devices](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Non-standard_equipment)
+
+  * [Operating System-specific Issues](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Operating_System_specific_notes)
+
+  * [Blender User Interface](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Interface)
+
+  * [Blender Windowing System](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Windowing_System)
+
+  * [User Preferences Windows](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/User_Preferences_Windows)
+
+  * [Properties Window](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Properties_Window)
+
+  * [3D View Windows](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/3D_View_Windows)
+
+  * [Object Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Object_Mode)
 
 ## Unit 2: Basic Modeling and Shading\[[edit](https://en.wikibooks.org/w/index.php?title=Blender_3D:_Noob_to_Pro&action=edit&section=9)\]
 
-* ### Section 2A: Your First Mesh Models
+* Section 2A: Your First Mesh Models
 
-  * #### [Meshes and Edit Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mesh_Edit_Mode)
-  * #### [Normals and Shading](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Normals_and_Shading)
-  * #### [More Mesh Editing Techniques](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/More_Mesh_Editing_Techniques)
-  * #### [Quickie Lighting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Lighting)
-  * #### [Quickie Model](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Model)
-  * #### [Quickie Render](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Render)
-  * #### [Enter the World](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/World_Settings)
-  * #### [Understanding the Camera](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Understanding_the_Camera)
-  * #### [Improving Your House](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Improving_Your_House)
-* ### Section 2B: Smooth Meshes \(Simple Person with a Hat\)
+  * [Meshes and Edit Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mesh_Edit_Mode)
 
-  * #### [Extruding a Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_Simple_Person)
-  * #### [Smoothing Your Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Detailing_Your_Simple_Person_1)
-  * #### [Improving Your Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Detailing_Your_Simple_Person_2)
-  * #### [Spinning a Simple Hat](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Creating_a_Simple_Hat)
-  * #### [Putting the Hat on the Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Putting_Hat_on_Person)
-* ### Section 2C: Materials and Textures
+  * [Normals and Shading](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Normals_and_Shading)
 
-  * #### [Overview](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Materials_and_Textures)
-  * #### [Quickie Material](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Material)
-  * #### [Multiple Materials per Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Multiple_Materials_Per_Object)
-  * #### [Metal Versus Plastic](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Metal_Versus_Plastic)
-  * #### [Texture Settings](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Texture_Settings)
-  * #### [Image Textures](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Image_Textures)
-  * #### [Procedural Textures](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Procedural_Textures)
-  * #### [Quickie Texture](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Texture)
-  * #### [Halo Materials](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Halo_Materials)
-* ### Beyond Basics
+  * [More Mesh Editing Techniques](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/More_Mesh_Editing_Techniques)
 
-  * #### [Blender Memory Management](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Memory_Management)
-  * #### [Using Bones](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Bones)
-  * #### [Mountains out of Molehills](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mountains_Out_Of_Molehills)
-  * #### [Modeling a Volcano](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_volcano)
-  * #### [Penguins from Spheres](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Penguins_from_spheres)
-  * #### [Dicing With Depth \(Dice Modeling\)](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Dicing_With_Depth)
-  * #### [Model a Goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Goblet)
+  * [Quickie Lighting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Lighting)
 
-    * ##### [Model a Silver Goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Silver_Goblet)
-    * ##### [Model a Silver Goblet Another Way](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Silver_Goblet_cylinder)
-    * ##### [Spin a goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Spin_a_goblet)
-    * ##### [Light a Silver Goblet \(Early look at lighting\)](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Light_a_Silver_Goblet)
-  * #### [Simple Vehicle](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle)
+  * [Quickie Model](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Model)
 
-    * ##### [Simple Vehicle: Wheel tutorial 1](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Wheel_tutorial_1)
-    * ##### [Simple Vehicle: Wheel tutorial 2](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Wheel_tutorial_2)
-    * ##### [Simple Vehicle: Seat](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Seat)
-    * ##### [Simple Vehicle: Rocket Launcher](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Rocket_Launcher)
-    * ##### [Simple Vehicle: Body](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Body)
-    * ##### [Simple Vehicle: Some Assembly Required](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Some_Assembly_Required)
-  * #### [Modeling a 3D Parachute in Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_3D_Parachute_in_Blender)
-  * #### [Model a Low Poly Head](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Low_Poly_Head)
-  * #### [Building a House](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Building_a_House)
-  * #### [Pipe joints](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Pipe_joints)
-  * #### [Lighting Suzanne: Introductory one lamp lighting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Lighting_Suzanne:_Introductory_one_lamp_lighting)
+  * [Quickie Render](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Render)
+
+  * [Enter the World](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/World_Settings)
+
+  * [Understanding the Camera](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Understanding_the_Camera)
+
+  * [Improving Your House](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Improving_Your_House)
+
+* Section 2B: Smooth Meshes \(Simple Person with a Hat\)
+
+  * [Extruding a Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_Simple_Person)
+
+  * [Smoothing Your Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Detailing_Your_Simple_Person_1)
+
+  * [Improving Your Simple Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Detailing_Your_Simple_Person_2)
+
+  * [Spinning a Simple Hat](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Creating_a_Simple_Hat)
+
+  * [Putting the Hat on the Person](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Putting_Hat_on_Person)
+
+* Section 2C: Materials and Textures
+
+  * [Overview](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Materials_and_Textures)
+
+  * [Quickie Material](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Material)
+
+  * [Multiple Materials per Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Multiple_Materials_Per_Object)
+
+  * [Metal Versus Plastic](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Metal_Versus_Plastic)
+
+  * [Texture Settings](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Texture_Settings)
+
+  * [Image Textures](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Image_Textures)
+
+  * [Procedural Textures](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Procedural_Textures)
+
+  * [Quickie Texture](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Quickie_Texture)
+
+  * [Halo Materials](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Halo_Materials)
+
+* Beyond Basics
+
+  * [Blender Memory Management](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Blender_Memory_Management)
+
+  * [Using Bones](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Bones)
+
+  * [Mountains out of Molehills](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Mountains_Out_Of_Molehills)
+
+  * [Modeling a Volcano](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_volcano)
+
+  * [Penguins from Spheres](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Penguins_from_spheres)
+
+  * [Dicing With Depth \(Dice Modeling\)](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Dicing_With_Depth)
+
+  * [Model a Goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Goblet)
+
+    * [Model a Silver Goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Silver_Goblet)
+
+    * [Model a Silver Goblet Another Way](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Silver_Goblet_cylinder)
+
+    * [Spin a goblet](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Spin_a_goblet)
+
+    * [Light a Silver Goblet \(Early look at lighting\)](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Light_a_Silver_Goblet)
+
+  * [Simple Vehicle](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle)
+
+    * [Simple Vehicle: Wheel tutorial 1](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Wheel_tutorial_1)
+
+    * [Simple Vehicle: Wheel tutorial 2](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Wheel_tutorial_2)
+
+    * [Simple Vehicle: Seat](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Seat)
+
+    * [Simple Vehicle: Rocket Launcher](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Rocket_Launcher)
+
+    * [Simple Vehicle: Body](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Body)
+
+    * [Simple Vehicle: Some Assembly Required](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Simple_Vehicle:_Some_Assembly_Required)
+
+  * [Modeling a 3D Parachute in Blender](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_a_3D_Parachute_in_Blender)
+
+  * [Model a Low Poly Head](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Model_a_Low_Poly_Head)
+
+  * [Building a House](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Building_a_House)
+
+  * [Pipe joints](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Pipe_joints)
+
+  * [Lighting Suzanne: Introductory one lamp lighting](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Lighting_Suzanne:_Introductory_one_lamp_lighting)
+
 * Curve and Path Modeling
 
   * [Overview](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Curve_and_Path_Modeling)
@@ -91,6 +150,7 @@
   * [Bevelling a Curve](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Bevelling_a_Curve)
 
   * [NURBS Patches](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/NURBS_Patches)
+
   * [Deforming Meshes using the Curve Modifier](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Deforming_Meshes_using_the_Curve_Modifier)
 
 * [The Empty Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/The_Empty_Object)
@@ -248,13 +308,15 @@
     * [Armature Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/index)
 
 * [Armature Object in Object Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/object)
+
 * [Armature Object in Edit Mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/edit)
 * [Armature Object in Pose mode](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Armature/pose)
 
   * [Mesh Object](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/index)
 
-* [Connection between Armature and Mesh](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)
+* [Connection between Armature and Mesh](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/Amodif)  
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
+
 * [Envelope](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/env)
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
 * [Vertex Groups & Weight Paint](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/Mesh/vg)
@@ -288,8 +350,9 @@
     [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
   * [NLA Editor](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/index)
     [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/50_percents.svg/9px-50_percents.svg.png "50% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
-* [Introduction To NLA Editor](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)
+* [Introduction To NLA Editor](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/Guided_tour/NLA/intro)  
   [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
+
   * [Working Example: Bob](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/example/bob/index)
     [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 28 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
   * [Building the Rig](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Animation/example/bob/Build_rig)
@@ -311,7 +374,7 @@
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
     * [Creating Dropping Menus](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Moving_Menus)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/75_percent.svg/9px-75_percent.svg.png "75% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
-    * [The "5-Layer" Button](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/The_"5-Layer"_Button)
+    * \[The "5-Layer" Button\]\([https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Advanced\_Tutorials/Advanced\_Game\_Engine/Game\_Creating\_Techniques\(GUI\)/The\_"5-Layer"\_Button](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/The_"5-Layer"_Button)\)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
     * [Creating Object Outlines](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Advanced_Tutorials/Advanced_Game_Engine/Game_Creating_Techniques%28GUI%29/Creating_Object_Outlines)
       [![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/25_percent.svg/9px-25_percent.svg.png "25% developed  as of 29 July 2016 \(UTC\)")](https://en.wikibooks.org/wiki/Help:Development_stages)
@@ -346,7 +409,7 @@
 General advice:
 
 * [Asking for Help](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Asking_for_Help)
-* [Tips for a Successful Project](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Know_What_You're_Doing)
+* \[Tips for a Successful Project\]\([https://en.wikibooks.org/wiki/Blender\_3D:\_Noob\_to\_Pro/Know\_What\_You're\_Doing](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Know_What_You're_Doing)\)
 * [Modeling Realistically](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_Realistically)
 * [Modeling tips](https://en.wikibooks.org/wiki/Blender_3D:_Noob_to_Pro/Modeling_tips)
 

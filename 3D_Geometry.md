@@ -1,10 +1,3 @@
-{{B3D:N2P/NAV
-|next=坐标变换
-|previous=Blender可以做什么
-|subcat=Background
-}}
-__TOC__
-
 
 如果你之前没有研究过3D图像、技术图纸、或者解析几何，那你即将学习一种全新的认知世界的方法，驾驭Blender或者其它任何一种3D建模工具所需的基础能力。
 
@@ -52,15 +45,5 @@ __TOC__
 [[Image:Blender3D DirectionOfRotation.png]]
 如果旋转方向沿着卷起的手指的方向，那么旋转轴的方向就是姆指所指向的方向。
 
-== 附加资源 ==
-* [[几何]]
-* {{Wikipedia-inline|解析几何}}
-* {{Wikipedia-inline|直角坐标系}}
-* {{Wikipedia-inline|右手法则}}
-* {{Wikipedia-inline|旋转}}
 
-{{B3D:N2P/NAV
-|next=坐标变换
-|previous=Blender可以做什么
-|subcat=Background
-}}
+

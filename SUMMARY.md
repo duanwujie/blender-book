@@ -11,7 +11,7 @@
     * [正投影图](Orthographic_Views.md)
     * [透视图](Perspective_Views.md)
   * [Blender中的坐标空间](Coordinate_Spaces_in_Blender.md)
-* Section 1B: 用户界面 \(UI\)
+* [Section 1B: 用户界面 \(UI\)](section-1b-yong-hujie-mian-ui.md)
   * [概述](User_Interface_Overview.md)
   * [按键、按钮和菜单符号](Keystroke,_Button,_and_Menu_Notation.md)
   * [非标准输入设备](Non-standard_equipment.md)
@@ -126,7 +126,7 @@
   * [Flying Through a Canyon](Flying_Through_A_Canyon.md)
   * [Using the Sequencer to Compile Frames into an Animation](Using_the_sequencer_to_compile_frames_into_an_animation.md)
 * [Further Rendering Options](Further_Rendering_Options.md)
-* Particle Systems
+* [Particle Systems](particle-systems.md)
   * [Overview](Particle_Systems.md)
   * [Fire](Making_Fire.md)
   * [Fur](Furry.md)

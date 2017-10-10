@@ -1,8 +1,8 @@
-<<<<<<< HEAD
 # Summary
 
 ## 背景知识
 
+* [Introduction](README.md)
 * [做前须知](_Knowing_Before_Making.md)
 * [Blender可以做什么](What_Blender_Can_Do.md)
 * [Section 1A: 3D概念](section-1a-3d-concepts.md)
@@ -23,10 +23,10 @@
   * [3D视图窗口](3D_View_Windows.md)
   * [对象模式](Object_Mode.md)
 
-## Unit 2: Basic Modeling and Shading
+## Unit 2: 基础建模与着色
 
-* [Section 2A: ](section-2a-your-first-mesh-models.md)你的第一个网格模型\(Mesh Model\)
-  * [网格对象（Mesh）与编辑模式（Edit Mode)](Mesh_Edit_Mode.md)
+* [Section 2A: ](section-2a-your-first-mesh-models.md)
+  * [网格对象（Mesh）与编辑模式（Edit Mode\)](Mesh_Edit_Mode.md)
   * [Normals and Shading](Normals_and_Shading.md)
   * [More Mesh Editing Techniques](More_Mesh_Editing_Techniques.md)
   * [Quickie Lighting](Quickie_Lighting.md)
@@ -301,11 +301,6 @@
 * [Animation Notes and FAQ](Animation_Notes_and_FAQ.md)
 * [Customization](Customization.md)
 * [Mist - Make Objects Opaque](Mist_-_Make_Objects_Opaque.md)
-
-
-
-=======
-# Summary
 
 ## 背景知识
 
@@ -608,6 +603,3 @@
 * [Customization](Customization.md)
 * [Mist - Make Objects Opaque](Mist_-_Make_Objects_Opaque.md)
 
-
-
->>>>>>> c4fb7f8b752163ff7593135ee612590087c5dbf7

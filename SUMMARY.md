@@ -25,7 +25,7 @@
 
 ## Unit 2: 基础建模与着色
 
-* [Section 2A: ](section-2a-your-first-mesh-models.md)
+* [Section 2A: 你的第一个网格模型](section-2a-your-first-mesh-models.md)
   * [网格对象（Mesh）与编辑模式（Edit Mode\)](Mesh_Edit_Mode.md)
   * [Normals and Shading](Normals_and_Shading.md)
   * [More Mesh Editing Techniques](More_Mesh_Editing_Techniques.md)
@@ -35,7 +35,7 @@
   * [Enter the World](World_Settings.md)
   * [Understanding the Camera](Understanding_the_Camera.md)
   * [Improving Your House](Improving_Your_House.md)
-* [Section 2B: Smooth Meshes \(Simple Person with a Hat\)](section-2b-smooth-meshes-simple-person-with-a-hat.md)
+* [Section 2B: 平滑网格对象 \(Simple Person with a Hat\)](section-2b-smooth-meshes-simple-person-with-a-hat.md)
   * [Extruding a Simple Person](Modeling_a_Simple_Person.md)
   * [Smoothing Your Simple Person](Detailing_Your_Simple_Person_1.md)
   * [Improving Your Simple Person](Detailing_Your_Simple_Person_2.md)

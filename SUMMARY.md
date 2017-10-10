@@ -24,7 +24,7 @@
 
 ## Unit 2: Basic Modeling and Shading
 
-* [Section 2A: Your First Mesh Models](section-2a-your-first-mesh-models.md)
+* [Section 2A: ](section-2a-your-first-mesh-models.md)你的第一个网格模型\(Mesh Model\)
   * [Meshes and Edit Mode](Mesh_Edit_Mode.md)
   * [Normals and Shading](Normals_and_Shading.md)
   * [More Mesh Editing Techniques](More_Mesh_Editing_Techniques.md)

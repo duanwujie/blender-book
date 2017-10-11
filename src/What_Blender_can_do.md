@@ -2,6 +2,8 @@
 
 Blender是一款用于创建3D图像（包括静态图片、游戏、视频）的自由软件包。
 
+Blender是一套完整的集成了3D内容创作的套件，全面提供了必要的创作工具包括 建模, 渲染, 动画, 视频编辑, 特效后期, 合成, 制作贴图, 骨骼蒙皮, 多种多样的 物理模拟, 以及 游戏制作 。
+
 尽管多数Blender制作出的最终产品都是平面上的2D位图，这些图像还是被称为“3D”，因为它们都有着深度错觉，看到图片的人能轻松看出哪部分更近，哪部分更远。
 
 **示例**
@@ -10,7 +12,7 @@ Blender是一款用于创建3D图像（包括静态图片、游戏、视频）�
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lone_House.jpg/400px-Lone_House.jpg)](https://zh.wikibooks.org/wiki/File:Lone_House.jpg)
 
- "A Lonely House", Mayqel作
+"A Lonely House", Mayqel作
 
 仔细观察图中的建筑。
 
@@ -44,6 +46,4 @@ Blender是一款用于创建3D图像（包括静态图片、游戏、视频）�
     （编排物体和他们的部分在不同时间中于3D场景里所处的位置）
 
 Blender能很好的胜任以上所有步骤。
-
-
 

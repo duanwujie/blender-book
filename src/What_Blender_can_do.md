@@ -10,13 +10,11 @@ Blender是一套完整的集成了3D内容创作的套件，全面提供了必�
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lone_House.jpg/400px-Lone_House.jpg)](https://zh.wikibooks.org/wiki/File:Lone_House.jpg)
 
-"A Lonely House", Mayqel作
+"A Lonely House", Mayqel制作
 
 仔细观察图中的建筑。
 
-* 因为它挡住了绿树成荫的山坡，你可以看出山坡在建筑物
-  之后
-  ，而非相反。
+* 因为它挡住了绿树成荫的山坡，你可以看出山坡在建筑物之后，而非相反。
 * 另外，正面墙壁的上下边沿，在靠近树的一边似乎靠得更拢，你能据此判断出墙与你的视角间的角度。
 * 你的意识会将墙较暗的部分当作是阴影，让你估计出光线从哪边照来，尽管太阳在画面之外。
 

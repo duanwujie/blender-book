@@ -49,9 +49,12 @@ There are frequently additional processes to embellish the results of the above,
 
 * **纹理绘制（Texture painting）**— You’re probably familiar with programs that let you paint an image on a 2D digital canvas. Such programs are commonly used in 3D production, to create textures which are “wrapped” around the surfaces of 3D objects to give them a more interesting appearance. 3D programs also often allow direct painting on the surfaces of those objects, so the effect of the design can be observed immediately, instead of having to go through a separate paint-on-a-flat-surface-then-wrap sequence of steps.
 
+* 您可能熟悉可以在2D数字画布上绘制图像的程序。这样的程序通常用于3D生产，以创建围绕3D对象的表面“包裹”的纹理，以使它们更有趣的外观。3D程序还经常允许在这些物体的表面上直接进行绘画，因此可以立即观察设计的效果，而不必通过单独的涂料在平面表面包装的步骤顺序进行。
+
 * **Physical modelling**— simulating the behaviour of real-world objects subject to real-world forces, for example hard balls colliding, soft cloth draping itself over an obstacle under gravity, water flowing and pouring. Mathematical formulas are available for these that give results very close to real life, all you need is the computing power to calculate them.
 
 * **Motion capture**, or mocap : producing convincing animations, particularly ones that look like the movements of real people \(walking, running, dancing etc\) can be hard. Hence the technique of capturing the motions of live actors, by filming them with special markers attached to strategic points on their bodies, and doing computer processing to track the movements of these markers and convert them to corresponding movements of an animation rig.
+
 * **合成\(Compositing\)**— this is where 3D renders are merged together with real photographic/live-action footage, to make it look like a rendered model is in the middle of a real-world scene, or conversely a real live actor is in the middle of a rendered scene. If done with proper skill, in particular due care to matching the effects of lights and shadows, the viewer becomes unable to tell what is real and what is not!
 
 

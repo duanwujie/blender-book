@@ -8,9 +8,8 @@ Blender是一套完整的集成了3D内容创作的套件，全面提供了必�
 
 这里有个现成的用Blender创建的图片。
 
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lone_House.jpg/400px-Lone_House.jpg)](https://zh.wikibooks.org/wiki/File:Lone_House.jpg)
+![A Lonely House", Mayqel制作](images/400px-Lone_House.jpg)
 
-"A Lonely House", Mayqel制作
 
 仔细观察图中的建筑。
 

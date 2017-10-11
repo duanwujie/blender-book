@@ -1,4 +1,4 @@
-CHAPTERS=_Background.md \
+CHAPTERS=Background.md \
 Knowing_before_Making.md \
 What_Blender_can_do.md \
 Section_1A__3D_Consepts.md \

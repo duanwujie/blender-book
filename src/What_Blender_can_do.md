@@ -34,25 +34,15 @@ Blender是一套完整的集成了3D内容创作的套件，全面提供了必�
 
 如果“A Lonely House”要做成一段视频，还另外需要几步来完成场景的animating（描述它如何随时间改变）：
 
-* **绑定rigging**（描述生物的一部分——如鸟的翅膀——如何相对其他部分移动）
-* **布景posing**（编排物体和他们的部分在不同时间中于3D场景里所处的位置）
+* **绑定\(Rigging\)**（描述生物的一部分——如鸟的翅膀——如何相对其他部分移动）
+* **布景\(Posing\)**（编排物体和他们的部分在不同时间中于3D场景里所处的位置）
 
 Blender能很好的胜任以上所有步骤。
 
-* 
-3D is often used to produce not just single still images, but animations as well. This requires some additional steps:
+* **Rigging**— setting up a rig, namely a way of deforming \(changing the shape of\) a character in various repeatable ways to convincingly mimic joint movements, facial expressions and other such actions of real-life people or animals.
 
-* Rigging
-  — setting up a
-  rig
-  , namely a way of
-  deforming
-  \(changing the shape of\) a character in various repeatable ways to convincingly mimic joint movements, facial expressions and other such actions of real-life people or animals.
-* Posing
-  — choreographing the positions of the objects and their parts in the 3D scene over time, using the previously-created animation rigs
-* Rendering now involves creating a whole
-  sequence
-  of frames representing movement over time, rather than just a single still frame.
+* **Posing **— choreographing the positions of the objects and their parts in the 3D scene over time, using the previously-created animation rigs
+* Rendering now involves creating a whole sequence of frames representing movement over time, rather than just a single still frame.
 
 But that’s not all. There are frequently additional processes to embellish the results of the above, to make them look more realistic:
 

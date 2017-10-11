@@ -41,5 +41,9 @@ Blender是一套完整的集成了3D内容创作的套件，全面提供了必�
 
 * Rendering now involves creating a whole sequence of frames representing movement over time, rather than just a single still frame.
 
+但这并不是全部，通常这里还有额外的步骤来改善处理结果，使得它们看起来更真实:
+
+There are frequently additional processes to embellish the results of the above, to make them look more realistic:
+
 
 
